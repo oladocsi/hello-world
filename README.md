@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-This file has been chnaged to test GitHub
+This file has been changed to test GitHub.
